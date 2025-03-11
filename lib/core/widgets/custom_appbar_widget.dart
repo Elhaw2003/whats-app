@@ -24,7 +24,7 @@ class CustomAppbarWidget extends StatelessWidget {
       actions: [
          Icon(iconData,color: AppColors.white,size: 30,),
         PopupMenuButton(
-          color: AppColors.grey,
+          color: AppColors.white,
           padding: const EdgeInsets.symmetric(horizontal: 8),
           iconColor: AppColors.white,
           iconSize: 30,
